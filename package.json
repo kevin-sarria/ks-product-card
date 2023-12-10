@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-rc",
+  "version": "1.0.1-rc",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -40,7 +40,6 @@
   },
   "name": "ks-ec-product-card",
   "author": "Kevin Sarria",
-  "module": "dist/ks-product-card.esm.js",
   "size-limit": [
     {
       "path": "dist/ks-product-card.cjs.production.min.js",
